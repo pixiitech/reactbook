@@ -1,0 +1,21 @@
+{
+  "name": "reactbook",
+  "version": "0.0.0",
+  "description": "My first react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello world!');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pixiitech/reactbook"
+  },
+  "keywords": [
+    "blah"
+  ],
+  "author": "greg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixiitech/reactbook/issues"
+  }
+}
